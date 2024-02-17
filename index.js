@@ -1,3 +1,4 @@
+
 var randomNumber1 = Math.ceil(Math.random()*6);
 var randomNumber2 = Math.ceil(Math.random()*6);
 
